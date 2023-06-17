@@ -11,7 +11,7 @@ This can be founded in **/modules**
 
 
 ## multi-stage-lasso for priors of variance parameters
-In **/prior_var**, one may find the coding to obtain priors for variance parameters: $\boldsymbol \sigma^2={\sigma^2_0, \sigma^2_1, ..., \sigma^2_J}$ and $\tau^2$
+In **/prior_var**, one may find the coding to obtain priors for variance parameters: $\boldsymbol \sigma^2=$ {$\sigma^2_0, \sigma^2_1, ..., \sigma^2_J$} and $\tau^2$
 
 
 ## MCMC algorithm
